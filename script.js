@@ -1,0 +1,2 @@
+goodbyespeaker.speak();
+hellospeaker.speak();
